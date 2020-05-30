@@ -1,6 +1,7 @@
 # Blender Learning Path
 
 ## Basics of 3D
+- Beginners Guide to Learning 3D Computer Graphics by *Blender Guru* [YouTube Link](https://www.youtube.com/watch?v=VT5oZndzj68)
 - Lighting Course by Blender Guru [YouTube Link](https://www.youtube.com/playlist?list=PLjEaoINr3zgH9vCr47kSS5W8PEJBNIiwK)
 
 ## Basics of Blender
