@@ -16,3 +16,4 @@
 
 1. Blender Beginner Tutorial Series by *Blender Guru* [YouTube Link](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U)
 2. Beginner Modelling Chair Tutorial by *Blender Guru* [YouTube Link](https://www.youtube.com/playlist?list=PLjEaoINr3zgEL9UjPTLWQhLFAK7wVaRMR)
+3. Dune Creation using World Creator Displacements by *James Tralie* [YouTube Link](https://www.youtube.com/watch?v=0o_8BxtyjA8)
