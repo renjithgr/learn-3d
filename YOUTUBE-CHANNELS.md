@@ -13,6 +13,7 @@
 | Derek Elliott      | https://www.youtube.com/channel/UCk7IufzS4r8v76NeWR6A3dg |                                 |       |
 | Index 3D           | https://www.youtube.com/c/INDEX3D                        |                                 |       |
 | James Tralie       | https://www.youtube.com/channel/UCV_K2SDWgvSxCixk3bydxpQ |                                 |       |
+| Louis du Mont      | https://www.youtube.com/c/mrlouisman                     |                                 |       |
 | Midge Sinnaeve     | https://www.youtube.com/c/MidgeSinnaeve                  |                                 |       |
 | SouthernShotty     | https://www.youtube.com/channel/UCOWrbryuVEPUMSSgayuLURg |                                 |       |
 | The CG Essentials  | https://www.youtube.com/channel/UCqiJI3COVDqxJnJoVkCiEUg |                                 |       |
