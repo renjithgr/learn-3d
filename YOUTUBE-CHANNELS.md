@@ -11,6 +11,7 @@
 | DECODED            | https://www.youtube.com/c/DECODEDVFX                     | Blender, general VFX topics     |       |
 | Default Cube       | https://www.youtube.com/channel/UCdpWKLNfbROyoGPV46-zaUQ |                                 |       |
 | Derek Elliott      | https://www.youtube.com/channel/UCk7IufzS4r8v76NeWR6A3dg |                                 |       |
+| Ducky 3D           | https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ |                                 |       |
 | Index 3D           | https://www.youtube.com/c/INDEX3D                        |                                 |       |
 | James Tralie       | https://www.youtube.com/channel/UCV_K2SDWgvSxCixk3bydxpQ |                                 |       |
 | Louis du Mont      | https://www.youtube.com/c/mrlouisman                     |                                 |       |
