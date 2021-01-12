@@ -18,5 +18,6 @@
 | Louis du Mont      | https://www.youtube.com/c/mrlouisman                     |                                 |       |
 | Midge Sinnaeve     | https://www.youtube.com/c/MidgeSinnaeve                  |                                 |       |
 | SouthernShotty     | https://www.youtube.com/channel/UCOWrbryuVEPUMSSgayuLURg |                                 |       |
+| Simon Thommes      | https://www.youtube.com/channel/UCzCcofKd2wi8UvdutOkxp2w |                                 |       |
 | Syncretic 3D       | https://www.youtube.com/channel/UCOawmp0CsDHtQzotefGzKug |                                 |       |
 | The CG Essentials  | https://www.youtube.com/channel/UCqiJI3COVDqxJnJoVkCiEUg |                                 |       |
