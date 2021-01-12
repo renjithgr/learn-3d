@@ -21,5 +21,6 @@
 | PIXXO 3D           | https://www.youtube.com/channel/UCNxIpuJ9MF8rcl9rrXAPUdQ |                                 |       |
 | SouthernShotty     | https://www.youtube.com/channel/UCOWrbryuVEPUMSSgayuLURg |                                 |       |
 | Simon Thommes      | https://www.youtube.com/channel/UCzCcofKd2wi8UvdutOkxp2w |                                 |       |
+| SKYLER STUDIOS     | https://www.youtube.com/channel/UCCSD0BY4OrnKO6u7AdwpcBg |                                 |       |
 | Syncretic 3D       | https://www.youtube.com/channel/UCOawmp0CsDHtQzotefGzKug |                                 |       |
 | The CG Essentials  | https://www.youtube.com/channel/UCqiJI3COVDqxJnJoVkCiEUg |                                 |       |
