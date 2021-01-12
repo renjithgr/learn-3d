@@ -17,6 +17,8 @@
 | James Tralie       | https://www.youtube.com/channel/UCV_K2SDWgvSxCixk3bydxpQ |                                 |       |
 | Louis du Mont      | https://www.youtube.com/c/mrlouisman                     |                                 |       |
 | Midge Sinnaeve     | https://www.youtube.com/c/MidgeSinnaeve                  |                                 |       |
+| Penfinity          | https://www.youtube.com/c/Penfinity                      |                                 |       |
+| PIXXO 3D           | https://www.youtube.com/channel/UCNxIpuJ9MF8rcl9rrXAPUdQ |                                 |       |
 | SouthernShotty     | https://www.youtube.com/channel/UCOWrbryuVEPUMSSgayuLURg |                                 |       |
 | Simon Thommes      | https://www.youtube.com/channel/UCzCcofKd2wi8UvdutOkxp2w |                                 |       |
 | Syncretic 3D       | https://www.youtube.com/channel/UCOawmp0CsDHtQzotefGzKug |                                 |       |
