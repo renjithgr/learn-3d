@@ -5,6 +5,7 @@
 | Arrimus 3D         | https://www.youtube.com/channel/UCSLLdTBwLMfTKWS56tOiQpw |                                 |       |
 | Blender Guru       | https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g |                                 |       |
 | bla tadej          | https://www.youtube.com/channel/UCmlrVYXOeT5naIDGrPij7yw |                                 |       |
+| blenderBinge       | https://www.youtube.com/channel/UCrXMyWVRmiXdMTpxxCsPuCQ |                                 |       |
 | CG Boost           | https://www.youtube.com/channel/UCWWybvw9jnpOdJq_6wTHryA |                                 |       |
 | CGMatter           | https://www.youtube.com/channel/UCy1f4m64dwCwk8CBZ_vHfPg |                                 |       |
 | Curtis Holt        | https://www.youtube.com/CurtisHolt                       |                                 |       |
