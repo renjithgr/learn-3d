@@ -7,6 +7,7 @@
 | bla tadej          | https://www.youtube.com/channel/UCmlrVYXOeT5naIDGrPij7yw |                                 |       |
 | blenderBinge       | https://www.youtube.com/channel/UCrXMyWVRmiXdMTpxxCsPuCQ |                                 |       |
 | CG Boost           | https://www.youtube.com/channel/UCWWybvw9jnpOdJq_6wTHryA |                                 |       |
+| CG Geek            | https://www.youtube.com/user/Blenderfan93                |                                 |       |
 | CGMatter           | https://www.youtube.com/channel/UCy1f4m64dwCwk8CBZ_vHfPg |                                 |       |
 | Curtis Holt        | https://www.youtube.com/CurtisHolt                       |                                 |       |
 | DECODED            | https://www.youtube.com/c/DECODEDVFX                     | Blender, general VFX topics     |       |
