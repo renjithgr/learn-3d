@@ -9,6 +9,7 @@
 | CG Boost           | https://www.youtube.com/channel/UCWWybvw9jnpOdJq_6wTHryA |                                 |       |
 | CG Geek            | https://www.youtube.com/user/Blenderfan93                |                                 |       |
 | CGMatter           | https://www.youtube.com/channel/UCy1f4m64dwCwk8CBZ_vHfPg |                                 |       |
+| CrossMind Studio   | https://www.youtube.com/channel/UCHihootMqyGz175gqOPahtw |                                 |       |
 | Curtis Holt        | https://www.youtube.com/CurtisHolt                       |                                 |       |
 | DECODED            | https://www.youtube.com/c/DECODEDVFX                     | Blender, general VFX topics     |       |
 | Default Cube       | https://www.youtube.com/channel/UCdpWKLNfbROyoGPV46-zaUQ |                                 |       |
