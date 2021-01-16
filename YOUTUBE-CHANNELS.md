@@ -7,6 +7,7 @@
 | bla tadej          | https://www.youtube.com/channel/UCmlrVYXOeT5naIDGrPij7yw |                                 |       |
 | blenderBinge       | https://www.youtube.com/channel/UCrXMyWVRmiXdMTpxxCsPuCQ |                                 |       |
 | CG Boost           | https://www.youtube.com/channel/UCWWybvw9jnpOdJq_6wTHryA |                                 |       |
+| CG Fast Track      | https://www.youtube.com/channel/UCsvgY1GWmJwvk3o6UeXVxAg |                                 |       |
 | CG Geek            | https://www.youtube.com/user/Blenderfan93                |                                 |       |
 | CGMatter           | https://www.youtube.com/channel/UCy1f4m64dwCwk8CBZ_vHfPg |                                 |       |
 | CrossMind Studio   | https://www.youtube.com/channel/UCHihootMqyGz175gqOPahtw |                                 |       |
