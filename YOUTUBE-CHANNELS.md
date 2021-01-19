@@ -30,3 +30,4 @@
 | SKYLER STUDIOS     | https://www.youtube.com/channel/UCCSD0BY4OrnKO6u7AdwpcBg |                                 |       |
 | Syncretic 3D       | https://www.youtube.com/channel/UCOawmp0CsDHtQzotefGzKug |                                 |       |
 | The CG Essentials  | https://www.youtube.com/channel/UCqiJI3COVDqxJnJoVkCiEUg |                                 |       |
+| ThisModernDay      | https://www.youtube.com/channel/UC1XOtiKiTqMEzoeam1E4geA |                                 |       |
