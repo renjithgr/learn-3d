@@ -25,6 +25,7 @@
 | Midge Sinnaeve     | https://www.youtube.com/c/MidgeSinnaeve                  |                                 |       |
 | Penfinity          | https://www.youtube.com/c/Penfinity                      |                                 |       |
 | PIXXO 3D           | https://www.youtube.com/channel/UCNxIpuJ9MF8rcl9rrXAPUdQ |                                 |       |
+| RenderRides        | https://www.youtube.com/channel/UCREsnxg5H2HAj86KVREdGMw |                                 |       |
 | SouthernShotty     | https://www.youtube.com/channel/UCOWrbryuVEPUMSSgayuLURg |                                 |       |
 | Simon Thommes      | https://www.youtube.com/channel/UCzCcofKd2wi8UvdutOkxp2w |                                 |       |
 | SKYLER STUDIOS     | https://www.youtube.com/channel/UCCSD0BY4OrnKO6u7AdwpcBg |                                 |       |
