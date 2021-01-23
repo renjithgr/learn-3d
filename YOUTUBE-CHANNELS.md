@@ -12,6 +12,7 @@
 | CG Fast Track      | https://www.youtube.com/channel/UCsvgY1GWmJwvk3o6UeXVxAg |                                 |       |
 | CG Geek            | https://www.youtube.com/user/Blenderfan93                |                                 |       |
 | CGMatter           | https://www.youtube.com/channel/UCy1f4m64dwCwk8CBZ_vHfPg |                                 |       |
+| CG Masters         | https://www.youtube.com/c/CgmastersNet                   |                                 |       |
 | chocofur           | https://www.youtube.com/channel/UCE_HM9GPhYGUrFdmM7VjO8g |                                 |       |
 | CrossMind Studio   | https://www.youtube.com/channel/UCHihootMqyGz175gqOPahtw |                                 |       |
 | Curtis Holt        | https://www.youtube.com/CurtisHolt                       |                                 |       |
