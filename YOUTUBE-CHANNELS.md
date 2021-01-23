@@ -22,6 +22,7 @@
 | Grant Abbitt       | https://www.youtube.com/user/mediagabbitt                |                                 |       |
 | Index 3D           | https://www.youtube.com/c/INDEX3D                        |                                 |       |
 | James Tralie       | https://www.youtube.com/channel/UCV_K2SDWgvSxCixk3bydxpQ |                                 |       |
+| Josh Gambrell      | https://www.youtube.com/channel/UCXfGjwohMgPm4Ng2e1FXySw |                                 |       |
 | Louis du Mont      | https://www.youtube.com/c/mrlouisman                     |                                 |       |
 | Midge Sinnaeve     | https://www.youtube.com/c/MidgeSinnaeve                  |                                 |       |
 | Penfinity          | https://www.youtube.com/c/Penfinity                      |                                 |       |
