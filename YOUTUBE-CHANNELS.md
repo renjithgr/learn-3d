@@ -2,6 +2,7 @@
 
 | Channel Name       | Link                                                     | Subjects Covered                | Notes |
 |--------------------|----------------------------------------------------------|---------------------------------|-------|
+| askNK              | https://www.youtube.com/c/askNK                          |                                 |       |
 | Arrimus 3D         | https://www.youtube.com/channel/UCSLLdTBwLMfTKWS56tOiQpw |                                 |       |
 | Blender Daily      | https://www.youtube.com/c/BlenderDaily                   |                                 |       |
 | Blender Guru       | https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g |                                 |       |
